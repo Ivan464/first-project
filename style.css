@@ -1,0 +1,22 @@
+.header{
+  width: 300px;
+  height:  200px;
+  border: 1px solid black;
+  background-color:violet ;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 12px;
+}
+
+.t2,.t4{
+    width: 100px;
+    margin-right:10px ;
+}
+
+.buttons,.notbuttons{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
